@@ -1,2 +1,3 @@
-# codeFest# bunnypredictor
+# bunnypredictor
+
 # bunnypredictor
